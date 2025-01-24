@@ -15,6 +15,9 @@ El repositorio contiene una serie de archivos con tal de ejecutar el desarrollo 
 En primer lugar para poder ejecutar los scripts, debemos asegurarnos de que tenemos todos los paquetes necesarios. En primer lugar debemos instalar y ejecutar el archivo `requirements.txt`
 
 
+Antes que nada ejecutar 'git clone https://github.com/adrimarcbdn/Practica_visualizaci-n_laliga.git' para clonar el repositorio
+' para 
+>
 1. En primer lugar, ejecutamos 'pip install -r requirements.txt' 
 2. En segundo lugar deberemos ejecutar el archivo futbolfantasy.py 'python futbolfantasy.py'
 3. En tercer lugar ejecutamos el archivo equipostransf.py 'python equipostransf.py' 
