@@ -4,6 +4,12 @@ import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
 import dash_bootstrap_components as dbc
 
+## Enlaces
+# Utilización de dash https://dash.plotly.com/
+# Utilización de dash bootstrap components https://dash-bootstrap-components.opensource.faculty.ai/
+# Grafico de radar https://plotly.com/python/radar-chart/
+##
+
 ######
 ##
 ## En el siguiente codigo se procedera a cargar los datos de los jugadores de la liga española y se creara un radar para mostrar toda la información de los jugadores y equipos

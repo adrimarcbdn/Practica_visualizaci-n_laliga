@@ -23,3 +23,5 @@ Antes que nada ejecutar 'git clone https://github.com/adrimarcbdn/Practica_visua
 3. En tercer lugar ejecutamos el archivo equipostransf.py 'python equipostransf.py' 
 4. En cuarto lugar ejecutamos el archivo correspondiente a la unión 'python merge.py'
 5. Para acabar ejecutamos el archivo que corresponde a la generación del gráfico 'app.py'
+
+En nuestro navegador tenedremos que poner una dirección http que nos generara app.py del estilo 'http://127.0.0.1:8050'
