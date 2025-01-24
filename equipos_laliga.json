@@ -1,0 +1,2062 @@
+{
+    "Real Madrid": [
+        {
+            "Jugador": "Thibaut Courtois",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Andriy Lunin",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Eder Militao",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Antonio Rudiger",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "David Alaba",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Raul Asencio",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jesus Vallejo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Ferland Mendy",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Fran Garcia",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Daniel Carvajal",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Lucas Vazquez",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Aurelien Tchouameni",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Federico Valverde",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Eduardo Camavinga",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Luka Modric",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Dani Ceballos",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Jude Bellingham",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Vinicius Junior",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Rodrygo",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Arda Guler",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Brahim Diaz",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Kylian Mbappe",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Endrick",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Fc Barcelona": [
+        {
+            "Jugador": "Marc-Andre ter Stegen",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Inaki Pena",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Wojciech Szczesny",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Ander Astralaga",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Pau Cubarsi",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Ronald Araujo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Andreas Christensen",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Eric Garcia",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Inigo Martinez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Sergi Dominguez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Alejandro Balde",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Gerard Martin",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Jules Kounde",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Hector Fort",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Marc Casado",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Marc Bernal",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Pedri",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Gavi",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Fermin Lopez",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Frenkie de Jong",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Dani Olmo",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Pablo Torre",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Raphinha",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Ansu Fati",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Lamine Yamal",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Ferran Torres",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Robert Lewandowski",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Pau Victor",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Atletico Madrid": [
+        {
+            "Jugador": "Jan Oblak",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Juan Musso",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Robin Le Normand",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jose Maria Gimenez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Clement Lenglet",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Axel Witsel",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Cesar Azpilicueta",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Reinildo Mandava",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Javi Galan",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Nahuel Molina",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Pablo Barrios",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Conor Gallagher",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Rodrigo De Paul",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Koke",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Marcos Llorente",
+            "Posición": "Right Midfield"
+        },
+        {
+            "Jugador": "Thomas Lemar",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Samuel Lino",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Rodrigo Riquelme",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Marcos Paulo",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Angel Correa",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Giuliano Simeone",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Julian Alvarez",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Alexander Sorloth",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Antoine Griezmann",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Real Sociedad San Sebastian": [
+        {
+            "Jugador": "Alex Remiro",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Unai Marrero",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Nayef Aguerd",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Igor Zubeldia",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jon Pacheco",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Aritz Elustondo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jon Martin",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Javi Lopez",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Aihen Munoz",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Jon Aramburu",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Hamari Traore",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Alvaro Odriozola",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Martin Zubimendi",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Benat Turrientes",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Luka Sucic",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Jon Ander Olasagasti",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Brais Mendez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Arsen Zakharyan",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Pablo Marin",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Ander Barrenetxea",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Sheraldo Becker",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Takefusa Kubo",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Sergio Gomez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Mikel Oyarzabal",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Orri Oskarsson",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Athletic Bilbao": [
+        {
+            "Jugador": "Unai Simon",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Julen Agirrezabala",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Dani Vivian",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Aitor Paredes",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Yeray Alvarez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Unai Nunez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Yuri Berchiche",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Adama Boiro",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Andoni Gorosabel",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Inigo Lekue",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Oscar de Marcos",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Mikel Vesga",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Benat Prados",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Mikel Jauregizar",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Inigo Ruiz de Galarreta",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Oihan Sancet",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Unai Gomez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Nico Williams",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Alex Berenguer",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Alvaro Djalo",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Nico Serrano",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Inaki Williams",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Gorka Guruzeta",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Javier Marton",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Fc Valencia": [
+        {
+            "Jugador": "Giorgi Mamardashvili",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Stole Dimitrievski",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Jaume Domenech",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Cristhian Mosquera",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Yarek Gasiorowski",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Cesar Tarrega",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Mouctar Diakhaby",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Maximiliano Caufriez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jose Gaya",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Jesus Vazquez",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Max Aarons",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Thierry Correia",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Dimitri Foulquier",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Pepelu",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Enzo Barrenechea",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Hugo Guillamon",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Javi Guerra",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Andre Almeida",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Martin Tejon",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Luis Rioja",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Sergi Canos",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Diego Lopez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Fran Perez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "German Valera",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Hugo Duro",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Umar Sadiq",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Dani Gomez",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Rafa Mir",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Fc Villarreal": [
+        {
+            "Jugador": "Diego Conde",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Luiz Junior",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Iker Alvarez",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Logan Costa",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Willy Kambwala",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Eric Bailly",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Raul Albiol",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Pau Navarro",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Sergi Cardona",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Juan Bernat",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Alfonso Pedraza",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Juan Foyth",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Kiko Femenia",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Pape Gueye",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Ramon Terrats",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Santi Comesana",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Dani Parejo",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Denis Suarez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Alex Baena",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Yeremy Pino",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Ilias Akhomach",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Nicolas Pepe",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Thierno Barry",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Ayoze Perez",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Gerard Moreno",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Pau Cabanes",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Fc Girona": [
+        {
+            "Jugador": "Paulo Gazzaniga",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Pau Lopez",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Juan Carlos",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Ladislav Krejci",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Alejandro Frances",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "David Lopez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Daley Blind",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Juanpe",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Miguel Gutierrez",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Arnau Martinez",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Oriol Romeu",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Yangel Herrera",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Donny van de Beek",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Jhon Solis",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Selvi Clua",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Ivan Martin",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Gabriel Misehouy",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Bryan Gil",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Arnaut Danjuma",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Min-su Kim",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Viktor Tsygankov",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Yaser Asprilla",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Portu",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Abel Ruiz",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Bojan Miovski",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Cristhian Stuani",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Real Betis Sevilla": [
+        {
+            "Jugador": "Fran Vieites",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Adrian",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Natan",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Diego Llorente",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Marc Bartra",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Romain Perraud",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Ricardo Rodriguez",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Aitor Ruibal",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Hector Bellerin",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Youssouf Sabaly",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Johnny Cardoso",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Marc Roca",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "William Carvalho",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Giovani Lo Celso",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Sergi Altimira",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Mateo Flores",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Pablo Fornals",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Isco",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Abde Ezzalzouli",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Juanmi",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Jesus Rodriguez",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Iker Losada",
+            "Posición": "Second Striker"
+        },
+        {
+            "Jugador": "Vitor Roque",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Chimy Avila",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Cedric Bakambu",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Fc Sevilla": [
+        {
+            "Jugador": "Alvaro Fernandez",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Orjan Nyland",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Loic Bade",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Kike Salas",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Marcao",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Tanguy Nianzou",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Adria Pedrosa",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Valentin Barco",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Juanlu Sanchez",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Jose Angel Carmona",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Lucien Agoume",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Nemanja Gudelj",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Albert Sambi Lokonga",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Djibril Sow",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Saul Niguez",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Manu Bueno",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Pedro Ortiz",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Stanis Idumbo",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Ruben Vargas",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Chidera Ejuke",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Dodi Lukebakio",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Suso",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Peque Fernandez",
+            "Posición": "Second Striker"
+        },
+        {
+            "Jugador": "Isaac Romero",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Kelechi Iheanacho",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Ud Las Palmas": [
+        {
+            "Jugador": "Alvaro Valles",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Dinko Horkas",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Jasper Cillessen",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Mika Marmol",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Scott McKenna",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Alex Suarez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Juanma Herzog",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Alex Munoz",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Daley Sinkgraven",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Andy Pelmard",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Viti Rozada",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Marvin Park",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Dario Essugo",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Javi Munoz",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Enzo Loiodice",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Jose Campana",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Alberto Moleiro",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Kirian Rodriguez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Manu Fuster",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Pejino",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Benito Ramirez",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Adnan Januzaj",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Fabio Silva",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Oli McBurnie",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Sandro Ramirez",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Marc Cardona",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Jaime Mata",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Ca Osasuna": [
+        {
+            "Jugador": "Sergio Herrera",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Aitor Fernandez",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Enzo Boyomo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jorge Herrando",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Alejandro Catena",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Unai Garcia",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Abel Bretones",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Juan Cruz",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Jesus Areso",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Ruben Pena",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Lucas Torro",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Iker Munoz",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Jon Moncayola",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Pablo Ibanez",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Aimar Oroz",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Bryan Zaragoza",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Moi Gomez",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Jose Manuel Arnaiz",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Ruben Garcia",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Kike Barja",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Ante Budimir",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Raul Garcia",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Rcd Mallorca": [
+        {
+            "Jugador": "Dominik Greif",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Leo Roman",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Ivan Cuellar",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Martin Valjent",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jose Copete",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Antonio Raillo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Siebe Van der Heyden",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Toni Lato",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Johan Mojica",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Pablo Maffeo",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Mateu Morey",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Samu Costa",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Omar Mascarell",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Sergi Darder",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Manu Morlanes",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Antonio Sanchez",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Robert Navarro",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Dani Rodriguez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Daniel Luna",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Chiquinho",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Takuma Asano",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Valery Fernandez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Vedat Muriqi",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Cyle Larin",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Abdon Prats",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Marc Domenech",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Deportivo Alaves": [
+        {
+            "Jugador": "Antonio Sivera",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Jesus Owono",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Adrian Rodriguez",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Abdel Abqar",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Santiago Mourino",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Moussa Diarra",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Adrian Pica",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Facundo Garces",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Aleksandar Sedlar",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Manu Sanchez",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Nahuel Tenaglia",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Hugo Novoa",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Antonio Blanco",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Carlos Protesoni",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Ander Guevara",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Jon Guridi",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Joan Jordan",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Carlos Martin",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Tomas Conechny",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Carlos Vicente",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Stoichkov",
+            "Posición": "Second Striker"
+        },
+        {
+            "Jugador": "Toni Martinez",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Asier Villalibre",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Kike Garcia",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Celta Vigo": [
+        {
+            "Jugador": "Ivan Villar",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Vicente Guaita",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Carl Starfelt",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Javi Rodriguez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Carlos Dominguez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Joseph Aidoo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Marcos Alonso",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Mihailo Ristic",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Oscar Mingueza",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Javier Manquillo",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Sergio Carreira",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Damian Rodriguez",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Jailson",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Fran Beltran",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Hugo Sotelo",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Ilaix Moriba",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Luca de la Torre",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Hugo Alvarez",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Williot Swedberg",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Jonathan Bamba",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Alfon Gonzalez",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Franco Cervi",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Tadeo Allende",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Anastasios Douvikas",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Borja Iglesias",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Iago Aspas",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Pablo Duran",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Espanyol Barcelona": [
+        {
+            "Jugador": "Joan Garcia",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Fernando Pacheco",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Angel Fortuno",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Marash Kumbulla",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Fernando Calero",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Leandro Cabrera",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Sergi Gomez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Pablo Ramon",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Carlos Romero",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Brian Olivan",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Omar El Hilali",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Alvaro Tejero",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Urko Gonzalez de Zarate",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Alex Kral",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Jose Gragera",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Alvaro Aguado",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Pol Lozano",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Edu Exposito",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Justin Smith",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Rafel Bauza",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Javi Puado",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Pere Milla",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Jofre Carreras",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Salvi Sanchez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Antoniu Roca",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Alejo Veliz",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Walid Cheddira",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Roberto Fernandez",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Irvin Cardona",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Omar Sadik",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Fc Getafe": [
+        {
+            "Jugador": "David Soria",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Jiri Letacek",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Omar Alderete",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Djene",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Juan Berrocal",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Domingos Duarte",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Nabil Aberdin",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Diego Rico",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Fabrizio Angileri",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Juan Iglesias",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Allan Nyom",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Mauro Arambarri",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Luis Milla",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Carles Alena",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Yellu Santiago",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Christantus Uche",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Alberto Risco",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Coba da Costa",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Alex Sola",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Carles Perez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Peter Federico",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Borja Mayoral",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Bertug Yildirim",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Alvaro Rodriguez",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Rayo Vallecano": [
+        {
+            "Jugador": "Augusto Batalla",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Dani Cardenas",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Abdul Mumin",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Florian Lejeune",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Pelayo Fernandez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Aridane Hernandez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Pep Chavarria",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Alfonso Espino",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Andrei Ratiu",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Ivan Balliu",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Gerard Gumbau",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Oscar Valentin",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Unai Lopez",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Pedro Diaz",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Pathe Ciss",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Randy Nteka",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Joni Montiel",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Oscar Trejo",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Alvaro Garcia",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Isi Palazon",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Jorge de Frutos",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Adrian Embarba",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Sergio Camello",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Raul de Tomas",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Sergi Guardiola",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Cd Leganes": [
+        {
+            "Jugador": "Juan Soriano",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Marko Dmitrovic",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Alvin Abajas",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Jackson Porozo",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Jorge Saenz",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Sergio Gonzalez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Matija Nastasic",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Javi Hernandez",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Enric Franquesa",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Valentin Rosier",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Adria Altimira",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Renato Tapia",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Yvan Neyou",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Julian Chicco",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Seydouba Cisse",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Darko Brasanac",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Oscar Rodriguez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Roberto Lopez",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Juan Cruz",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Munir El Haddadi",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Dani Raba",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Miguel de la Fuente",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Diego Garcia",
+            "Posición": "Centre-Forward"
+        }
+    ],
+    "Real Valladolid": [
+        {
+            "Jugador": "Karl Hein",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Andre Ferreira",
+            "Posición": "Goalkeeper"
+        },
+        {
+            "Jugador": "Eray Comert",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Javi Sanchez",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Cenk Ozkacar",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "David Torres",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Juma Bah",
+            "Posición": "Centre-Back"
+        },
+        {
+            "Jugador": "Lucas Rosa",
+            "Posición": "Left-Back"
+        },
+        {
+            "Jugador": "Luis Perez",
+            "Posición": "Right-Back"
+        },
+        {
+            "Jugador": "Stanko Juric",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Mario Martin",
+            "Posición": "Defensive Midfield"
+        },
+        {
+            "Jugador": "Kike Perez",
+            "Posición": "Central Midfield"
+        },
+        {
+            "Jugador": "Selim Amallah",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Chuki",
+            "Posición": "Attacking Midfield"
+        },
+        {
+            "Jugador": "Raul Moro",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Darwin Machis",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Kenedy",
+            "Posición": "Left Winger"
+        },
+        {
+            "Jugador": "Amath Ndiaye",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Anuar",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Ivan Sanchez",
+            "Posición": "Right Winger"
+        },
+        {
+            "Jugador": "Juanmi Latasa",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Mamadou Sylla",
+            "Posición": "Centre-Forward"
+        },
+        {
+            "Jugador": "Marcos Andre",
+            "Posición": "Centre-Forward"
+        }
+    ]
+}
